@@ -1,4 +1,12 @@
-## Hi there 👋
+<img src="https://www.thi.de/_assets/a92153751098915699a1afa17e77f864/Images/thi_logo_b_RGB.svg" height="20" width="20"> Research associate at THI Business School.
+
+
+|   |   |   |
+|---|---|---|
+| Master of Science in Health Data Science  | UNSW Sydney  | 2024  |
+| Bachelor of Arts in Psychology  | Eugene Lang College  | 2022  |
+| Bachelor of Fine Arts in Illustration  | Parsons School of Design  | 2022  |
+| Minor in Creative Coding  | Parsons School of Design  | 2022 |
 
 <!--
 **sophiakee/sophiakee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
